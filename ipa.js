@@ -1,50 +1,44 @@
 ﻿var init = {
     'questions': [{
-        'question': 'IPA',
-        'answers': ['JavaScript library', 'Ruby Gem', 'PHP Framework', 'None of the above'],
+        'question': 'Setelah udara masuk melalui pangkal tenggorokan, udara akan menuju tenggorokan. Nama lain untuk tenggorokan adalah...',
+        'answers': ['Trakea', 'Bronkus', 'Alveolus', 'Lungs'],
         'correctAnswer': 1
     }, {
-        'question': 'X comes after?',
-        'answers': ['P', 'W', 'Y', 'v'],
-        'correctAnswer': 2
-    }, {
-        'question': 'Meh stands for..',
-        'answers': ['Eh', '/Sigh', 'What?', 'Whatever'],
-        'correctAnswer': 4
-    }, {
-        'question': '5 + 10 = ',
-        'answers': ['5', '15', '16', '14'],
-        'correctAnswer': 2
-    }, {
-        'question': '5 + 11 = ',
-        'answers': ['16', '9', '14', '14'],
-        'correctAnswer': 1
-    },{
-        'question': '5 + 9 = ',
-        'answers': ['5', '9', '14', '14'],
-        'correctAnswer': 4
-    },{
-        'question': '6 + 9 = ',
-        'answers': ['15', '9', '14', '14'],
-        'correctAnswer': 1
-    },{
-        'question': '8 + 9 = ',
-        'answers': ['5', '9', '17', '14'],
+        'question': 'Alat pernapasan ikan biasa disebut dengan...',
+        'answers': ['Paru-paru', 'Kulit', 'Insang', 'Kutikula'],
         'correctAnswer': 3
-    },{
-        'question': '5 + 12 = ',
-        'answers': ['5', '9', '14', '17'],
+    }, {
+        'question': 'Cacing bernapas dengan menggunakan...',
+        'answers': ['Paru-paru', 'Insang', 'Kulit', 'Alveola'],
+        'correctAnswer': 3
+    }, {
+        'question': 'Katak adalah hewan yang unik, karena saat kecil bernapas dengan ... tetapi setelah dewasa bernapas dengan paru-paru dan kulitnya.',
+        'answers': ['Paru-paru', 'Insang', 'Kulit', 'Alveola'],
+        'correctAnswer': 2
+    }, {
+        'question': 'Makanan akan menuju ke ... setelah berada di dalam lambung',
+        'answers': ['Usus Besar', 'Usus Buntu', 'Anus', 'Usus Kecil'],
         'correctAnswer': 4
     },{
-        'question': '5 + 19 = ',
-        'answers': ['5', '9', '24', '14'],
-        'correctAnswer': 3
+        'question': 'Enzim yang berfungsi merubah zat tepung menjadi zat gula saat dikunyah di mulut biasa disebut sebagai enzim...',
+        'answers': ['Pepsin', 'Tripsin', 'Lipase', 'Amilase'],
+        'correctAnswer': 4
     },{
-        'question': '5 + 29 = ',
-        'answers': ['5', '34', "'14'", '14'],
+        'question': 'Contoh makanan yang mudah dicerna adalah...',
+        'answers': ['Nasi', 'Brokoli', 'Daging', 'Sawi'],
+        'correctAnswer': 1
+    },{
+        'question': 'Contoh makanan yang mengandung vitamin A adalah...',
+        'answers': ['Minyak ikan, kuning telur, buah-buahan', 'Bekatul, beras merah, kacang hijau', 'Taoge, gandum, hati', 'Sayuran hijau, jeruk, susu'],
+        'correctAnswer': 1
+    },{
+        'question': 'Penyakit gondok disebabkan karena di dalam tubuh kekurangan zat ...',
+        'answers': ['Mineral', 'Yodium', 'Fosfor', 'Besi'],
         'correctAnswer': 2
-    },
-	],
+    },{
+        'question': 'Karbohidrat diperlukan oleh tubuh sebagai ...',
+        'answers': ['Zat Tenaga', 'Cadangan Makanan', 'Zat Pembangun', 'Zat Pengatur'],
+        'correctAnswer': 1},],
     'resultComments': {
         // perfect: 'Albus, is that you?',
         // excellent: 'Outstanding, noble sir!',

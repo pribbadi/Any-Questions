@@ -9,7 +9,7 @@ html {
 
 body {
    padding-top: 24px;
-   padding-bottom: 88px;
+   padding-bottom: 0px;
    position: relative;
    font-family: "Open Sans",Arial,Helvetica,Sans-Serif;
    font-weight: 300;
@@ -71,6 +71,7 @@ h2 {
    font-size: 26px;
    line-height: 34px;
 }
+
 h3, .win-type-large {
    font-weight: 600;
    font-size: 20px;

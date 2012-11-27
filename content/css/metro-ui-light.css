@@ -13,7 +13,7 @@ Typographic color definitions.
 /*}*/
 html,
 body {
-   color: #333;
+   color: #FFF;
    background-color: #FFF;
 }
 
@@ -323,6 +323,7 @@ Headers colors.
 header h1,
 header h2,
 table th {color: #24A0DA;}
+header h22{color: #000000;}
 .accent-bg {background:#24A0DA;}
 
 a#user-info h3,
