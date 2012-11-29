@@ -1,16 +1,16 @@
 ﻿var init = {
     'questions': [{
-        'question': 'IPS',
-        'answers': ['JavaScript library', 'Ruby Gem', 'PHP Framework', 'None of the above'],
-        'correctAnswer': 1
-    }, {
-        'question': 'X comes after?',
-        'answers': ['P', 'W', 'Y', 'v'],
+        'question': 'Arca pada umumnya berupa patung perwujudan raja yang digambarkan sebagai …',
+        'answers': ['Tuhan', 'Dewa', 'Malaikat', 'Pahlawan'],
         'correctAnswer': 2
     }, {
-        'question': 'Meh stands for..',
-        'answers': ['Eh', '/Sigh', 'What?', 'Whatever'],
-        'correctAnswer': 4
+        'question': 'Kerajaan Hindu yang pertama di Indonesia adalah …',
+        'answers': ['Mataram', 'Tarumanegara', 'Kutai', 'Singosari'],
+        'correctAnswer': 3
+    }, {
+        'question': 'Kota yang memiliki beda waktu lebih awal 7 jam dan waktu Greenwich adalah …',
+        'answers': ['Pontianak', 'Samarinda', 'Banjarmasin', 'Kutai'],
+        'correctAnswer': 1
     }, {
         'question': '5 + 10 = ',
         'answers': ['5', '15', '16', '14'],
