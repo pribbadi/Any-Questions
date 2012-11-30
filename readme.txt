@@ -1,6 +1,8 @@
 Any Questions? are quizzes designed for 5th grade of elementary school.
 There are 3 quizzes in this packet: IPA, IPS and Math.
 
+Feel free to try out our project here : http://bintangcokelat.byethost22.com/
+
 Technical Spesification:
 We are currently using some listed script below based on javascript.
 Theme are taken from bootmetro by Marcello Palmitessa, while the 
@@ -19,6 +21,7 @@ github.com/penta31  || twitter : @penta_31
 Any Questions merupakan sajian paket kuis untuk siswa kelas 5 SD. 
 Ada 3 paket soal yang disajikan, yaitu IPA, IPS dan Matematika.
 
+Silahkan mencoba proyek kami di http://bintangcokelat.byethost22.com/
 
 Technical Spesification:
 
