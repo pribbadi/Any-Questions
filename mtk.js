@@ -1,64 +1,53 @@
-﻿var init = {
+var init = {
     'questions': [{
-        'question': 'MTK',
-        'answers': ['JavaScript library', 'Ruby Gem', 'PHP Framework', 'None of the above'],
+        'question': 'Bilangan di bawah ini yang bukan termasuk bilangan prima, adalah …',
+        'answers': ['6', '3', '5', '7'],
         'correctAnswer': 1
     }, {
-        'question': 'X comes after?',
-        'answers': ['P', 'W', 'Y', 'v'],
+        'question': 'Yang termasuk bilangan prima dari 1 sampai 10 adalah …',
+        'answers': ['2,4,6,8', '2,3,5,7', '2,5,7,9', '2,6,8,9'],
         'correctAnswer': 2
     }, {
-        'question': 'Meh stands for..',
-        'answers': ['Eh', '/Sigh', 'What?', 'Whatever'],
-        'correctAnswer': 4
-    }, {
-        'question': '5 + 10 = ',
-        'answers': ['5', '15', '16', '14'],
-        'correctAnswer': 2
-    }, {
-        'question': '5 + 11 = ',
-        'answers': ['16', '9', '14', '14'],
-        'correctAnswer': 1
-    },{
-        'question': '5 + 9 = ',
-        'answers': ['5', '9', '14', '14'],
-        'correctAnswer': 4
-    },{
-        'question': '6 + 9 = ',
-        'answers': ['15', '9', '14', '14'],
-        'correctAnswer': 1
-    },{
-        'question': '8 + 9 = ',
-        'answers': ['5', '9', '17', '14'],
+        'question': 'Faktorisasi prima dari 8 adalah …',
+        'answers': ['3x3x3', '4x2x2', '2x2x2', '2x2x3'],
         'correctAnswer': 3
-    },{
-        'question': '5 + 12 = ',
-        'answers': ['5', '9', '14', '17'],
+    }, {
+        'question': 'Bilangan prima dari 10 sampai 20 adalah …',
+        'answers': ['13,14,19', '11,13,17', '14,16,18', '11,15,17'],
+        'correctAnswer': 2
+    }, {
+        'question': 'KPK dari pasangan bilangan 6 dan 8 adalah …',
+        'answers': ['14', '42', '24', '48'],
         'correctAnswer': 4
     },{
-        'question': '5 + 19 = ',
-        'answers': ['5', '9', '24', '14'],
-        'correctAnswer': 3
+        'question': 'Pembulatan bilangan 835 ke ratusan terdekat …',
+        'answers': ['800', '840', '740', '700'],
+        'correctAnswer': 1
     },{
-        'question': '5 + 29 = ',
-        'answers': ['5', '34', "'14'", '14'],
+        'question': 'Hasil penaksiran dari 542 + 275 adalah …',
+        'answers': ['810', '817', '830', '800'],
         'correctAnswer': 2
+    },{
+        'question': '123 – (-432) = ...',
+        'answers': ['-555', '-309', '309', '555'],
+        'correctAnswer': 4
+    },{
+        'question': '. 9.645 jika dibulatkan ke ratusan terdekat menjadi ...',
+        'answers': ['9640', '9600', '1000', '9650'],
+        'correctAnswer': 2
+    },{
+        'question': 'Luas persegi dengan sisi 12 cm adalah . . .cm2',
+        'answers': ['48', '84', '144', '100'],
+        'correctAnswer': 3
     },
 	],
     'resultComments': {
-        // perfect: 'Albus, is that you?',
-        // excellent: 'Outstanding, noble sir!',
-        // good: 'Exceeds expectations!',
-        // average: 'Acceptable. For a muggle.',
-        // bad: 'Well, that was poor.',
-        // poor: 'Dreadful!',
-        // worst: 'For shame, troll!'
-		perfect: '<img src="img/gold.png"/><br>'+'MATOH',
-        excellent: '<img src="img/gold.png"/><br>'+'EXCELLENT',
-        good: '<img src="img/silver.png"/><br>'+'GOOD',
-        average: '<img src="img/bronze.png"/><br>'+'AVERAGE',
-        bad: 'BAD',
-        poor: 'POOR',
-        worst: 'WORST'
+	perfect: '<img src="img/quality1.jpg"/><br>'+'LUAR BIASA',
+        excellent: '<img src="img/gold.png"/><br>'+'HEBAT',
+        good: '<img src="img/silver.png"/><br>'+'BAGUS',
+        average: '<img src="img/bronze.png"/><br>'+'CUKUP',
+        bad: 'KURANG',
+        poor: 'SANGAT KURANG',
+        worst: 'AYO BELAJAR LAGI'
     }
 };
