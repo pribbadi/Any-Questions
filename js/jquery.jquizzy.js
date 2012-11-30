@@ -14,8 +14,8 @@
             questions: null,
             // twitterStatus: 'I scored {score} on this awesome + quiz! http://linky.com',
             startText: 'Ayo belajar!',
-            endText: 'Hasil Pekerjaan Anda!',
-            splashImage: 'img/start.png',
+            endText: 'Tetap Semangat!',
+            splashImage: 'img/start.jpg',
             // twitterImage: 'img/share.png',
 			resultComments: {
                 perfect: '<img src="../img/bintang.png"/>'+'Perfect!',
@@ -38,7 +38,7 @@
         var superContainer = $(this),
             answers = [],
             introFob = '	<div class="intro-container slide-container"><div class="question-number">' + config.startText + '</div><a class="nav-start" href="#"><img src="' + config.splashImage + '" /></a></div>	',
-            exitFob = '<div class="results-container slide-container"><div class="question-number">' + config.endText + '</div><div class="result-keeper"></div></div><div class="notice">Pilih jawaban dulu gan!</div><div class="progress-keeper" ><div class="progress"></div></div>',
+            exitFob = '<div class="results-container slide-container"><div class="question-number">' + config.endText + '</div><div class="result-keeper"></div></div><div class="notice">Pilih salah satu jawaban dulu!</div><div class="progress-keeper" ><div class="progress"></div></div>',
             contentFob = '';
         superContainer.addClass('main-quiz-holder');
 
@@ -204,7 +204,7 @@
 
 			//menampilkan hasil. Komentar + Nilai + Pembetulan
 			//komentar dan nilai
-            resultSet = '<h2 class="qTitle">' + judgeSkills(score) + ' <br> Presentasi Nilai Anda <br>' + '<div class="b">' + score + '</div></h2>' + shareButton + resultSet + '<div class="jquizzy-clear"></div>';
+            resultSet = '<h2 class="qTitle">' + judgeSkills(score) + ' <br> Skor Anda <br>' + '<div class="b">' + score + '</div></h2>' + shareButton + resultSet + '<div class="jquizzy-clear"></div>';
 			//pembetulan
             superContainer.find('.result-keeper').html(resultSet).show(500);
             superContainer.find('.resultsview-qhover').hide();

@@ -1,0 +1,3 @@
+readme tolong dijadikan README.MD di repo github.
+
+tolong tambahi link demo di readme.

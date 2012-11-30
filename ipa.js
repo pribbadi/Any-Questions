@@ -40,19 +40,12 @@
         'answers': ['Zat Tenaga', 'Cadangan Makanan', 'Zat Pembangun', 'Zat Pengatur'],
         'correctAnswer': 1},],
     'resultComments': {
-        // perfect: 'Albus, is that you?',
-        // excellent: 'Outstanding, noble sir!',
-        // good: 'Exceeds expectations!',
-        // average: 'Acceptable. For a muggle.',
-        // bad: 'Well, that was poor.',
-        // poor: 'Dreadful!',
-        // worst: 'For shame, troll!'
-		perfect: '<img src="img/gold.png"/><br>'+'MATOH',
-        excellent: '<img src="img/gold.png"/><br>'+'EXCELLENT',
-        good: '<img src="img/silver.png"/><br>'+'GOOD',
-        average: '<img src="img/bronze.png"/><br>'+'AVERAGE',
-        bad: 'BAD',
-        poor: 'POOR',
-        worst: 'WORST'
+		perfect: '<img src="img/quality1.jpg"/><br>'+'LUAR BIASA',
+        excellent: '<img src="img/gold.png"/><br>'+'HEBAT',
+        good: '<img src="img/silver.png"/><br>'+'BAGUS',
+        average: '<img src="img/bronze.png"/><br>'+'CUKUP',
+        bad: 'KURANG',
+        poor: 'SANGAT KURANG',
+        worst: 'AYO BELAJAR LAGI'
     }
 };

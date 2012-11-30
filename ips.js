@@ -1,64 +1,53 @@
 ﻿var init = {
     'questions': [{
-        'question': 'IPS',
-        'answers': ['JavaScript library', 'Ruby Gem', 'PHP Framework', 'None of the above'],
+        'question': 'Kursi, meja dan lemari merupakan hasil kegiatan usaha di bidang …',
+        'answers': ['Agraris', 'Perdagangan', 'Industri', 'Jasa'],
+        'correctAnswer': 3
+    }, {
+        'question': 'Berikut ini yang tidak termasuk perusahaan BUMN adalah …',
+        'answers': ['PT Kereta Api', 'PT PLN', 'Perum Pegadaian', 'PT Aneka Tambang'],
+        'correctAnswer': 3
+    }, {
+        'question': 'Berikut ini yang bukan merupakan pekerjaan bidang jasa adalah …',
+        'answers': ['Petani', 'Guru', 'Tukang cukur', 'Sopir'],
         'correctAnswer': 1
     }, {
-        'question': 'X comes after?',
-        'answers': ['P', 'W', 'Y', 'v'],
-        'correctAnswer': 2
-    }, {
-        'question': 'Meh stands for..',
-        'answers': ['Eh', '/Sigh', 'What?', 'Whatever'],
+        'question': 'Salah satu cara menghargai produksi dalam negeri adalah …',
+        'answers': ['Mencegah penjualan ke luar negeri', 'melestarikan bahan baku dalam negeri', 'Ikut barang hasil produksi', 'menggunakan barang produksi dalam negeri'],
         'correctAnswer': 4
     }, {
-        'question': '5 + 10 = ',
-        'answers': ['5', '15', '16', '14'],
+        'question': 'Perusahaan yang memperoleh modal dari penjualan saham berbentuk …',
+        'answers': ['Firma', 'Perseroan Terbatas', 'CV', 'Koperasi'],
+        'correctAnswer': 1
+    },{
+        'question': 'Kenampakan alam yang biasanya dimanfaatkan untuk pertanian dan pemukiman adalah …',
+        'answers': ['Dataran Tinggi', 'Dataran Rendah', 'Pegunungan', 'Pantai'],
         'correctAnswer': 2
-    }, {
-        'question': '5 + 11 = ',
-        'answers': ['16', '9', '14', '14'],
-        'correctAnswer': 1
     },{
-        'question': '5 + 9 = ',
-        'answers': ['5', '9', '14', '14'],
-        'correctAnswer': 4
-    },{
-        'question': '6 + 9 = ',
-        'answers': ['15', '9', '14', '14'],
-        'correctAnswer': 1
-    },{
-        'question': '8 + 9 = ',
-        'answers': ['5', '9', '17', '14'],
+        'question': 'Pulau yang terdapat di tengah Danau Toba adalah …',
+        'answers': ['Rote', 'Ende', 'Samosir', 'Bangko'],
         'correctAnswer': 3
     },{
-        'question': '5 + 12 = ',
-        'answers': ['5', '9', '14', '17'],
+        'question': 'Berikut ini yang termasuk fauna tipe peralihan adalah …',
+        'answers': ['Komodo', 'Badak', 'Harimau', 'Katsuari'],
         'correctAnswer': 4
     },{
-        'question': '5 + 19 = ',
-        'answers': ['5', '9', '24', '14'],
-        'correctAnswer': 3
+        'question': 'Danau buatan disebut juga dengan …',
+        'answers': ['Waduk', 'Rawa', 'Tambak', 'Kolam'],
+        'correctAnswer': 1
     },{
-        'question': '5 + 29 = ',
-        'answers': ['5', '34', "'14'", '14'],
-        'correctAnswer': 2
+        'question': 'Padang rumput yang luas dengan tumbuhan semak belukar disebut …',
+        'answers': ['Sabana', 'Stepa', 'Kaldera', 'Tundra'],
+        'correctAnswer': 1
     },
 	],
     'resultComments': {
-        // perfect: 'Albus, is that you?',
-        // excellent: 'Outstanding, noble sir!',
-        // good: 'Exceeds expectations!',
-        // average: 'Acceptable. For a muggle.',
-        // bad: 'Well, that was poor.',
-        // poor: 'Dreadful!',
-        // worst: 'For shame, troll!'
-		perfect: '<img src="img/gold.png"/><br>'+'MATOH',
-        excellent: '<img src="img/gold.png"/><br>'+'EXCELLENT',
-        good: '<img src="img/silver.png"/><br>'+'GOOD',
-        average: '<img src="img/bronze.png"/><br>'+'AVERAGE',
-        bad: 'BAD',
-        poor: 'POOR',
-        worst: 'WORST'
+		perfect: '<img src="img/quality1.jpg"/><br>'+'LUAR BIASA',
+        excellent: '<img src="img/gold.png"/><br>'+'HEBAT',
+        good: '<img src="img/silver.png"/><br>'+'BAGUS',
+        average: '<img src="img/bronze.png"/><br>'+'CUKUP',
+        bad: 'KURANG',
+        poor: 'SANGAT KURANG',
+        worst: 'AYO BELAJAR LAGI'
     }
 };

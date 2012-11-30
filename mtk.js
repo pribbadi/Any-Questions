@@ -1,4 +1,4 @@
-var init = {
+﻿var init = {
     'questions': [{
         'question': 'Bilangan di bawah ini yang bukan termasuk bilangan prima, adalah …',
         'answers': ['6', '3', '5', '7'],
@@ -42,7 +42,7 @@ var init = {
     },
 	],
     'resultComments': {
-	perfect: '<img src="img/quality1.jpg"/><br>'+'LUAR BIASA',
+		perfect: '<img src="img/quality1.jpg"/><br>'+'LUAR BIASA',
         excellent: '<img src="img/gold.png"/><br>'+'HEBAT',
         good: '<img src="img/silver.png"/><br>'+'BAGUS',
         average: '<img src="img/bronze.png"/><br>'+'CUKUP',
