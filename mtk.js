@@ -18,7 +18,8 @@
     }, {
         'question': 'KPK dari pasangan bilangan 6 dan 8 adalah …',
         'answers': ['14', '42', '24', '48'],
-        'correctAnswer': 4
+		// KPK dari 6 dan 8 adalah 24
+        'correctAnswer': 3
     },{
         'question': 'Pembulatan bilangan 835 ke ratusan terdekat …',
         'answers': ['800', '840', '740', '700'],
