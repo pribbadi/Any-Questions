@@ -1,7 +1,7 @@
 Any Questions? are quizzes designed for 5th grade of elementary school.
 There are 3 quizzes in this packet: IPA, IPS and Math.
 
-Feel free to try out our project here : http://bintangcokelat.byethost22.com/
+Feel free to try out our project here : http://any-questions.zz.mu/
 
 Technical Spesification:
 We are currently using some listed script below based on javascript.
